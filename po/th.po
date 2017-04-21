@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-20 00:33-0400\n"
+"PO-Revision-Date: 2012-04-11 10:53+0200\n"
+"Last-Translator: Meechai <malaku38@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2 finance.py:100
+msgid "Finance"
+msgstr "การเงิน"
+
+#: budgetscreen.py:34
+msgid ""
+"The Budget view allows you to set a monthly budget for each expense "
+"category, and to keep track of your\n"
+"budgets.  To set a budget, type the amount in the box to the right of the "
+"category."
+msgstr ""
+"มุมมองงบประมาณอนุญาตให้คุณกำหนดงบประมาณสำหรับแต่ละประเภทค่าใช้จ่ายรายเดือน "
+"และเก็บการติดตามงบประมาณของคุณ\n"
+"   เมื่อต้องการกำหนดงบประมาณ ให้พิมพ์ยอดเงินในช่องด้านขวาของหมวดหมู่"
+
+#: budgetscreen.py:76 registerscreen.py:84
+msgid "Category"
+msgstr "หมวดหมู่"
+
+#: budgetscreen.py:78
+msgid "Spent"
+msgstr "ใช้จ่ายไปแล้ว"
+
+#: budgetscreen.py:80 finance.py:250 finance.py:251
+msgid "Budget"
+msgstr "งบประมาณ"
+
+#: budgetscreen.py:102 chartscreen.py:95
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+#: budgetscreen.py:154 budgetscreen.py:175 finance.py:228 finance.py:389
+#: finance.py:468 finance.py:486 finance.py:502
+msgid "Day"
+msgstr "วัน"
+
+#: budgetscreen.py:154 finance.py:232 finance.py:401 finance.py:402
+#: finance.py:449 finance.py:482 finance.py:518 finance.py:523 finance.py:528
+#: finance.py:541
+msgid "Forever"
+msgstr "วนซ้ำตลอด"
+
+#: budgetscreen.py:178 finance.py:229 finance.py:392 finance.py:471
+#: finance.py:489 finance.py:505
+msgid "Week"
+msgstr "สัปดาห์"
+
+#: budgetscreen.py:181 finance.py:231 finance.py:398 finance.py:479
+#: finance.py:498 finance.py:514
+msgid "Year"
+msgstr "ปี"
+
+#: chartscreen.py:34
+msgid ""
+"The Chart view shows the proportion of your expenses that is in each "
+"category.\n"
+"You can categorize transactions in the Register view."
+msgstr ""
+"มุมมองแผนภูมิแสดงสัดส่วนของค่าใช้จ่ายของคุณที่อยู่ในแต่ละประเภท \n"
+"คุณสามารถจัดประเภทธุรกรรมในมุมมองการลงบันทึก"
+
+#: chartscreen.py:49
+msgid "Debit Categories"
+msgstr "ประเภทของรายจ่าย"
+
+#: finance.py:125 finance.py:230 finance.py:395 finance.py:476 finance.py:492
+#: finance.py:508
+msgid "Month"
+msgstr "เดือน"
+
+#: finance.py:188 registerscreen.py:196
+msgid "New Credit"
+msgstr "รายรับ"
+
+#: finance.py:193 registerscreen.py:207
+msgid "New Debit"
+msgstr "รายจ่าย"
+
+#: finance.py:198
+msgid "Erase Transaction"
+msgstr "ลบรายการ"
+
+#: finance.py:223
+msgid "Period: "
+msgstr "ระยะเวลา: "
+
+#: finance.py:241 finance.py:242
+msgid "Register"
+msgstr "การลงบันทึก"
+
+#: finance.py:258 finance.py:259
+msgid "Chart"
+msgstr "แผนภูมิ"
+
+#: finance.py:271
+msgid "Show Help"
+msgstr "แสดงวิธีใช้"
+
+#: finance.py:284
+msgid "Transaction"
+msgstr "รายการ"
+
+#: finance.py:285
+msgid "Period"
+msgstr "ระยะเวลา"
+
+#: finance.py:286
+msgid "View"
+msgstr "มุมมอง"
+
+#: finance.py:393
+msgid "Week of"
+msgstr "สัปดาห์ที่"
+
+#: finance.py:439
+msgid "Balance: "
+msgstr "คงเหลือ: "
+
+#: finance.py:455
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+#: finance.py:456
+msgid "This"
+msgstr "นี้"
+
+#: finance.py:457
+msgid "Next"
+msgstr "ถัดไป"
+
+#: registerscreen.py:34
+msgid ""
+"<b>Welcome to Finance!</b>   This activity keeps track of income and "
+"expenses for anything that earns\n"
+"or spends money, like a school club.  To get started, use the Transaction "
+"box to add credits and debits.\n"
+"Once you have entered some transactions, visit the Chart and Budget views to "
+"see more."
+msgstr ""
+"<b>ยินดีต้อนรับสู่การเงิน!<b> "
+"กิจกรรมนี้จะติดตามรายได้และค่าใช้จ่ายสำหรับสิ่งที่ได้รับ หรือใช้เงิน "
+"เมื่อต้องการเริ่มต้นใช้งาน ใช้กล่องรายการเพื่อเพิ่มรายรับ รายจ่าย"
+
+#: registerscreen.py:57
+msgid "Description"
+msgstr "คำอธิบาย"
+
+#: registerscreen.py:65
+msgid "Amount"
+msgstr "จำนวนเงิน"
+
+#: registerscreen.py:74
+msgid "Date"
+msgstr "วันที่"

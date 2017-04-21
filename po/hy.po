@@ -1,0 +1,251 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-22 00:34-0400\n"
+"PO-Revision-Date: 2012-03-22 04:55+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2 finance.py:100
+msgid "Finance"
+msgstr "Ֆինանսավորում"
+
+#: budgetscreen.py:34
+msgid ""
+"The Budget view allows you to set a monthly budget for each expense "
+"category, and to keep track of your\n"
+"budgets.  To set a budget, type the amount in the box to the right of the "
+"category."
+msgstr ""
+"Բյուջե էջը հնարավորություն է տալիս յուրաքանչյուր ծախսի կարգի համար սահմանել "
+"ամսական բյուջե և վարել այն: \n"
+" Բյուջեն որոշելու համար` մուտքագրեք քանակը կատեգորիայի աջ կողմում գտնվող "
+"վանդակում:"
+
+#: budgetscreen.py:76 registerscreen.py:84
+msgid "Category"
+msgstr "Կատեգորիա"
+
+#: budgetscreen.py:78
+msgid "Spent"
+msgstr "Ծախս"
+
+#: budgetscreen.py:80 finance.py:250 finance.py:251
+msgid "Budget"
+msgstr "Բյուջե"
+
+#: budgetscreen.py:102 chartscreen.py:95
+msgid "Unknown"
+msgstr "Անճանաչ"
+
+#: budgetscreen.py:154 budgetscreen.py:175 finance.py:228 finance.py:389
+#: finance.py:465 finance.py:488 finance.py:506 finance.py:522
+msgid "Day"
+msgstr "Օր"
+
+#: budgetscreen.py:154 finance.py:232 finance.py:405 finance.py:406
+#: finance.py:453 finance.py:502 finance.py:538 finance.py:543 finance.py:548
+#: finance.py:561
+msgid "Forever"
+msgstr "Ընդմիշտ"
+
+#: budgetscreen.py:178 finance.py:229 finance.py:393 finance.py:491
+#: finance.py:509 finance.py:525
+msgid "Week"
+msgstr "Շաբաթ"
+
+#: budgetscreen.py:181 finance.py:231 finance.py:401 finance.py:469
+#: finance.py:499 finance.py:518 finance.py:534
+msgid "Year"
+msgstr "Տարի"
+
+#: chartscreen.py:34
+msgid ""
+"The Chart view shows the proportion of your expenses that is in each "
+"category.\n"
+"You can categorize transactions in the Register view."
+msgstr ""
+"Դիագրամի էջը ցույց Է տալիս ձեր ծախսերի համամասնությունը յուրաքանչյուր "
+"կատեգորիայում: \n"
+"Դուք կարող եք դասակարգել գործարքները Գրանցում էջում:"
+
+#: chartscreen.py:49
+msgid "Debit Categories"
+msgstr "﻿ Դեբիտի Կարգերը"
+
+#: finance.py:125 finance.py:230 finance.py:397 finance.py:461 finance.py:496
+#: finance.py:512 finance.py:528
+msgid "Month"
+msgstr "Ամիս"
+
+#: finance.py:188 registerscreen.py:196
+msgid "New Credit"
+msgstr "﻿Նոր Վարկ"
+
+#: finance.py:193 registerscreen.py:207
+msgid "New Debit"
+msgstr "Նոր Դեբիտ"
+
+#: finance.py:198
+msgid "Erase Transaction"
+msgstr "Ջնջել Գործարքը"
+
+#: finance.py:223
+msgid "Period: "
+msgstr "Ժամանակաշրջան. "
+
+#: finance.py:241 finance.py:242
+msgid "Register"
+msgstr "Գրանցել"
+
+#: finance.py:258 finance.py:259
+msgid "Chart"
+msgstr "Դիագրամ"
+
+#: finance.py:271
+msgid "Show Help"
+msgstr "Ցուցադրել Օգնությունը"
+
+#: finance.py:284
+msgid "Transaction"
+msgstr "Գործարք"
+
+#: finance.py:285
+msgid "Period"
+msgstr "ժամանակամիջոց"
+
+#: finance.py:286
+msgid "View"
+msgstr "Տեսք"
+
+#. TRANS: representation of the "Day" period
+#: finance.py:391
+msgid "%B %d, %Y"
+msgstr ""
+
+#. TRANS: representation of the "Week of" period
+#: finance.py:395
+msgid "Week of"
+msgstr "-ի Շաբաթ"
+
+#: finance.py:395
+msgid " %B %d, %Y"
+msgstr ""
+
+#. TRANS: representation of the "Month" period
+#: finance.py:399
+msgid "%B, %Y"
+msgstr ""
+
+#. TRANS: representation of the "Year" period
+#: finance.py:403
+msgid "%Y"
+msgstr ""
+
+#: finance.py:443
+msgid "Balance: "
+msgstr "Բալանս "
+
+#: finance.py:462
+msgid "Previous Month"
+msgstr ""
+
+#: finance.py:463
+msgid "This Month"
+msgstr ""
+
+#: finance.py:464
+msgid "Next Month"
+msgstr ""
+
+#: finance.py:466
+msgid "Previous Day"
+msgstr ""
+
+#: finance.py:467
+msgid "This Day"
+msgstr ""
+
+#: finance.py:468
+msgid "Next Day"
+msgstr ""
+
+#: finance.py:470
+msgid "Previous Year"
+msgstr ""
+
+#: finance.py:471
+msgid "This Year"
+msgstr ""
+
+#: finance.py:472
+msgid "Next Year"
+msgstr ""
+
+#: registerscreen.py:34
+msgid ""
+"<b>Welcome to Finance!</b>   This activity keeps track of income and "
+"expenses for anything that earns\n"
+"or spends money, like a school club.  To get started, use the Transaction "
+"box to add credits and debits.\n"
+"Once you have entered some transactions, visit the Chart and Budget views to "
+"see more."
+msgstr ""
+"<b> Բարի՛ գալուստ ֆինանսավորում: </b>   Այս գործունեությունը հաշվառում է "
+"ցանկացած վաստակի եկամուտը և ծախսը, \n"
+"կամ ծախսում է գումար, ինչպես դպրոցի ակումբը:  Մեկնարկելու համար մուտքագրեք "
+"'կրեդիտները\" և \"դեբետները\" Գործարք տուփի մեջ:\n"
+"Գործարքները մուտքագրելուց հետո` այցելեք Դիագրամ և Բյուջե էջեր, ավելին "
+"տեսնելու համար:"
+
+#: registerscreen.py:57
+msgid "Description"
+msgstr "Նկարագրություն"
+
+#: registerscreen.py:65
+msgid "Amount"
+msgstr "Գումար"
+
+#: registerscreen.py:74
+msgid "Date"
+msgstr "Ամսաթիվ"
+
+#~ msgid "Previous"
+#~ msgstr "Նախորդ"
+
+#~ msgid "This"
+#~ msgstr "Այս"
+
+#~ msgid "Next"
+#~ msgstr "Հաջորդ"

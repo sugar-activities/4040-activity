@@ -1,0 +1,207 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-20 00:33-0400\n"
+"PO-Revision-Date: 2012-03-22 05:31+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2 finance.py:100
+msgid "Finance"
+msgstr "நிதி"
+
+#: budgetscreen.py:34
+msgid ""
+"The Budget view allows you to set a monthly budget for each expense "
+"category, and to keep track of your\n"
+"budgets.  To set a budget, type the amount in the box to the right of the "
+"category."
+msgstr ""
+"வரவு செலவுத் திட்டப் பார்வை ஒவ்வொரு மாதத்திற்குமான ஒவ்வொரு வகை வரவு செலவுத் "
+"திட்டத்தினைத் தயார் பண்ணுவதற்கும், உங்கள் \n"
+" வரவு செலவுத் திட்டத்தின் தடத்தினை வைத்திருக்கவும் உதவும். வரவு செலவுத் "
+"திட்டத்தினைத் தயார் பண்ணுவதற்கு வகையின் இடது பக்கத்திலுள்ள பெட்டிக்குள் "
+"உள்ளீடு செய்யுங்கள்."
+
+#: budgetscreen.py:76 registerscreen.py:84
+msgid "Category"
+msgstr "பிரிவு"
+
+#: budgetscreen.py:78
+msgid "Spent"
+msgstr "செலவளி"
+
+#: budgetscreen.py:80 finance.py:250 finance.py:251
+msgid "Budget"
+msgstr "வரவு செலவுத்திட்டம்"
+
+#: budgetscreen.py:102 chartscreen.py:95
+msgid "Unknown"
+msgstr "அறியப்படாதது"
+
+#: budgetscreen.py:154 budgetscreen.py:175 finance.py:228 finance.py:389
+#: finance.py:468 finance.py:486 finance.py:502
+msgid "Day"
+msgstr "நாள்"
+
+#: budgetscreen.py:154 finance.py:232 finance.py:401 finance.py:402
+#: finance.py:449 finance.py:482 finance.py:518 finance.py:523 finance.py:528
+#: finance.py:541
+msgid "Forever"
+msgstr "எந்நாளும்"
+
+#: budgetscreen.py:178 finance.py:229 finance.py:392 finance.py:471
+#: finance.py:489 finance.py:505
+msgid "Week"
+msgstr "வாரம்"
+
+#: budgetscreen.py:181 finance.py:231 finance.py:398 finance.py:479
+#: finance.py:498 finance.py:514
+msgid "Year"
+msgstr "வருடம்"
+
+#: chartscreen.py:34
+msgid ""
+"The Chart view shows the proportion of your expenses that is in each "
+"category.\n"
+"You can categorize transactions in the Register view."
+msgstr ""
+"உங்களின் ஒவ்வொரு வகையான செலவினங்களிள அளவீடுகள் வரை படத்தில் "
+"காட்டப்படுகின்றது. \n"
+" நீங்கள் பதிவீட்டுப்பார்வையில் உங்கள் கொடுக்கல் வாங்கல்களை வகைப்படுத்தலாம்"
+
+#: chartscreen.py:49
+msgid "Debit Categories"
+msgstr "செலவீன வகைகள்"
+
+#: finance.py:125 finance.py:230 finance.py:395 finance.py:476 finance.py:492
+#: finance.py:508
+msgid "Month"
+msgstr "மாதம்"
+
+#: finance.py:188 registerscreen.py:196
+msgid "New Credit"
+msgstr "புதிய கடன்"
+
+#: finance.py:193 registerscreen.py:207
+msgid "New Debit"
+msgstr "புதிய செலவு"
+
+#: finance.py:198
+msgid "Erase Transaction"
+msgstr "கொடுக்கல் வாங்கல்களை அழி"
+
+#: finance.py:223
+msgid "Period: "
+msgstr "காலம் "
+
+#: finance.py:241 finance.py:242
+msgid "Register"
+msgstr "பதிவு செய்"
+
+#: finance.py:258 finance.py:259
+msgid "Chart"
+msgstr "வரைபடம்"
+
+#: finance.py:271
+msgid "Show Help"
+msgstr "உதவியைக் காட்டு"
+
+#: finance.py:284
+msgid "Transaction"
+msgstr "கொடுக்கல் வாங்கல்"
+
+#: finance.py:285
+msgid "Period"
+msgstr "காலம்"
+
+#: finance.py:286
+msgid "View"
+msgstr "பார்வை"
+
+#: finance.py:393
+msgid "Week of"
+msgstr "வது கிழமை"
+
+#: finance.py:439
+msgid "Balance: "
+msgstr "பலப்படுத்து "
+
+#: finance.py:455
+msgid "Previous"
+msgstr "முந்தைய"
+
+#: finance.py:456
+msgid "This"
+msgstr "இந்த"
+
+#: finance.py:457
+msgid "Next"
+msgstr "அடுத்த"
+
+#: registerscreen.py:34
+msgid ""
+"<b>Welcome to Finance!</b>   This activity keeps track of income and "
+"expenses for anything that earns\n"
+"or spends money, like a school club.  To get started, use the Transaction "
+"box to add credits and debits.\n"
+"Once you have entered some transactions, visit the Chart and Budget views to "
+"see more."
+msgstr ""
+"<b>Finance உங்களை வரவேற்கிறது.</b>    இந்கச் செயற்பாடு \n"
+" ஐ வருமானமாக அல்லது பணத்தைச் செலவளிக்கும் எவருக்கும் வருமான செலவீனங்களின் "
+"பதிவுகளை வைத்திருக்க உதவும்.இதனை ஆரம்பிக்க கொடுக்கல் வாங்கல் பெட்டியை "
+"உபயோகித்து வரவு செலவினைச் சேருங்கள்.\n"
+" கொடுக்கல் வாங்கல்களை சேர்த்த பின்னர் மேலதிக விபரங்களை அறிய வரைபட அல்லது "
+"வரவு செலவுத் திட்டப் பார்வைக்குச் செல்லுங்கள்."
+
+#: registerscreen.py:57
+msgid "Description"
+msgstr "விபரம்"
+
+#: registerscreen.py:65
+msgid "Amount"
+msgstr "தொகை"
+
+#: registerscreen.py:74
+msgid "Date"
+msgstr "திகதி"

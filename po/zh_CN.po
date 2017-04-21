@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-22 00:34-0400\n"
+"PO-Revision-Date: 2012-07-03 13:00+0200\n"
+"Last-Translator: athurg <feng@jianbo.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2 finance.py:100
+msgid "Finance"
+msgstr "财务管理"
+
+#: budgetscreen.py:34
+msgid ""
+"The Budget view allows you to set a monthly budget for each expense "
+"category, and to keep track of your\n"
+"budgets.  To set a budget, type the amount in the box to the right of the "
+"category."
+msgstr "预算视图允许你设置每月开支预算给每项花销分类，并且保持跟踪你的开支. 如要设置， 在分类右边的框中键入数额。"
+
+#: budgetscreen.py:76 registerscreen.py:84
+msgid "Category"
+msgstr "分类"
+
+#: budgetscreen.py:78
+msgid "Spent"
+msgstr "花费"
+
+#: budgetscreen.py:80 finance.py:250 finance.py:251
+msgid "Budget"
+msgstr "预算"
+
+#: budgetscreen.py:102 chartscreen.py:95
+msgid "Unknown"
+msgstr "未知"
+
+#: budgetscreen.py:154 budgetscreen.py:175 finance.py:228 finance.py:389
+#: finance.py:465 finance.py:488 finance.py:506 finance.py:522
+msgid "Day"
+msgstr "日"
+
+#: budgetscreen.py:154 finance.py:232 finance.py:405 finance.py:406
+#: finance.py:453 finance.py:502 finance.py:538 finance.py:543 finance.py:548
+#: finance.py:561
+msgid "Forever"
+msgstr "永远"
+
+#: budgetscreen.py:178 finance.py:229 finance.py:393 finance.py:491
+#: finance.py:509 finance.py:525
+msgid "Week"
+msgstr "周"
+
+#: budgetscreen.py:181 finance.py:231 finance.py:401 finance.py:469
+#: finance.py:499 finance.py:518 finance.py:534
+msgid "Year"
+msgstr "年"
+
+#: chartscreen.py:34
+msgid ""
+"The Chart view shows the proportion of your expenses that is in each "
+"category.\n"
+"You can categorize transactions in the Register view."
+msgstr ""
+"该图表显示了每个分类中你的花费的比例。\n"
+"在注册视图中你可以将交易分类。"
+
+#: chartscreen.py:49
+msgid "Debit Categories"
+msgstr "借款分类"
+
+#: finance.py:125 finance.py:230 finance.py:397 finance.py:461 finance.py:496
+#: finance.py:512 finance.py:528
+msgid "Month"
+msgstr "月份"
+
+#: finance.py:188 registerscreen.py:196
+msgid "New Credit"
+msgstr "一笔新存款"
+
+#: finance.py:193 registerscreen.py:207
+msgid "New Debit"
+msgstr "一笔新借款"
+
+#: finance.py:198
+msgid "Erase Transaction"
+msgstr "删除交易"
+
+#: finance.py:223
+msgid "Period: "
+msgstr "期限:"
+
+#: finance.py:241 finance.py:242
+msgid "Register"
+msgstr "注册"
+
+#: finance.py:258 finance.py:259
+msgid "Chart"
+msgstr "图表"
+
+#: finance.py:271
+msgid "Show Help"
+msgstr "显示帮助"
+
+#: finance.py:284
+msgid "Transaction"
+msgstr "交易"
+
+#: finance.py:285
+msgid "Period"
+msgstr "时期"
+
+#: finance.py:286
+msgid "View"
+msgstr "查看"
+
+#. TRANS: representation of the "Day" period
+#: finance.py:391
+msgid "%B %d, %Y"
+msgstr "%B %d, %Y"
+
+#. TRANS: representation of the "Week of" period
+#: finance.py:395
+msgid "Week of"
+msgstr "周"
+
+#: finance.py:395
+msgid " %B %d, %Y"
+msgstr " %B %d, %Y"
+
+#. TRANS: representation of the "Month" period
+#: finance.py:399
+msgid "%B, %Y"
+msgstr "%B, %Y"
+
+#. TRANS: representation of the "Year" period
+#: finance.py:403
+msgid "%Y"
+msgstr "%Y"
+
+#: finance.py:443
+msgid "Balance: "
+msgstr "余额:"
+
+#: finance.py:462
+msgid "Previous Month"
+msgstr "前一月"
+
+#: finance.py:463
+msgid "This Month"
+msgstr "本月"
+
+#: finance.py:464
+msgid "Next Month"
+msgstr "下一月"
+
+#: finance.py:466
+msgid "Previous Day"
+msgstr "前一天"
+
+# 翻译为今天貌似不妥，但是前后文感觉又像，请指正！
+#: finance.py:467
+msgid "This Day"
+msgstr "今天"
+
+#: finance.py:468
+msgid "Next Day"
+msgstr "后一天"
+
+#: finance.py:470
+msgid "Previous Year"
+msgstr "前一年"
+
+# 请根据上下文环境修正！谢谢
+#: finance.py:471
+msgid "This Year"
+msgstr "今年"
+
+#: finance.py:472
+msgid "Next Year"
+msgstr "后一年"
+
+#: registerscreen.py:34
+msgid ""
+"<b>Welcome to Finance!</b>   This activity keeps track of income and "
+"expenses for anything that earns\n"
+"or spends money, like a school club.  To get started, use the Transaction "
+"box to add credits and debits.\n"
+"Once you have entered some transactions, visit the Chart and Budget views to "
+"see more."
+msgstr ""
+"<b>欢迎使用财务管理!</b>   该活动对任何会挣钱会花钱的项目进行记录收入和开支，\n"
+"比方说学校社团活动.  如要开始，使用交易框增加存款项和借款项.\n"
+"一旦你录入了一些交易，就可通过图表和预算视图查看更多。"
+
+#: registerscreen.py:57
+msgid "Description"
+msgstr "描述"
+
+#: registerscreen.py:65
+msgid "Amount"
+msgstr "数目"
+
+#: registerscreen.py:74
+msgid "Date"
+msgstr "日期"
+
+#~ msgid "Previous"
+#~ msgstr "上一个"
+
+#~ msgid "This"
+#~ msgstr "这个"
+
+#~ msgid "Next"
+#~ msgstr "下一个"

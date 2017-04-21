@@ -1,0 +1,204 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: olpc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-20 00:33-0400\n"
+"PO-Revision-Date: 2012-03-22 05:28+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: sinhala <LL@li.org>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+"X-Poedit-Language: Sinhalese\n"
+
+#: activity/activity.info:2 finance.py:100
+msgid "Finance"
+msgstr "මූල්‍ය"
+
+#: budgetscreen.py:34
+msgid ""
+"The Budget view allows you to set a monthly budget for each expense "
+"category, and to keep track of your\n"
+"budgets.  To set a budget, type the amount in the box to the right of the "
+"category."
+msgstr ""
+"මෙම අය වැය දර්ශකය මගින් ඔබට එක් එක් වියදමට අදාලව මාසික අය වැය සකසා ගත හැකි "
+"අතර , ඔබේ අය වැය පිළිබද නිතර විමසා බැලිය හැක. \n"
+" අය වැය සැකසීමට අදාල අගය දකුණූ පස ඇති නියමිත කොටුවෙහි ඇතුලත් කරන්න."
+
+#: budgetscreen.py:76 registerscreen.py:84
+msgid "Category"
+msgstr "වර්‍ගය"
+
+#: budgetscreen.py:78
+msgid "Spent"
+msgstr "වියදම් කළ"
+
+#: budgetscreen.py:80 finance.py:250 finance.py:251
+msgid "Budget"
+msgstr "අයවැය"
+
+#: budgetscreen.py:102 chartscreen.py:95
+msgid "Unknown"
+msgstr "නොදනී"
+
+#: budgetscreen.py:154 budgetscreen.py:175 finance.py:228 finance.py:389
+#: finance.py:468 finance.py:486 finance.py:502
+msgid "Day"
+msgstr "දිනය"
+
+#: budgetscreen.py:154 finance.py:232 finance.py:401 finance.py:402
+#: finance.py:449 finance.py:482 finance.py:518 finance.py:523 finance.py:528
+#: finance.py:541
+msgid "Forever"
+msgstr "සදහටම"
+
+#: budgetscreen.py:178 finance.py:229 finance.py:392 finance.py:471
+#: finance.py:489 finance.py:505
+msgid "Week"
+msgstr "සතිය"
+
+#: budgetscreen.py:181 finance.py:231 finance.py:398 finance.py:479
+#: finance.py:498 finance.py:514
+msgid "Year"
+msgstr "වසර"
+
+#: chartscreen.py:34
+msgid ""
+"The Chart view shows the proportion of your expenses that is in each "
+"category.\n"
+"You can categorize transactions in the Register view."
+msgstr ""
+"මෙම වගුව එක් එක් ප්‍රභේද යටතේ ඔබේ වියදම් පෙන්නුම් කරයි. \n"
+" ඔබට රෙජිස්ටර් දසුන තූලින් එම ගනුදෙනු වර්ග කල හෑකියි."
+
+#: chartscreen.py:49
+msgid "Debit Categories"
+msgstr "ගෙවීම් වර්ග"
+
+#: finance.py:125 finance.py:230 finance.py:395 finance.py:476 finance.py:492
+#: finance.py:508
+msgid "Month"
+msgstr "මාසය"
+
+#: finance.py:188 registerscreen.py:196
+msgid "New Credit"
+msgstr "නව ලැබීම්"
+
+#: finance.py:193 registerscreen.py:207
+msgid "New Debit"
+msgstr "නව ගෙවීම්"
+
+#: finance.py:198
+msgid "Erase Transaction"
+msgstr "ගනුදෙනුව මකාදැමීම"
+
+#: finance.py:223
+msgid "Period: "
+msgstr "කාලපරිච්ඡේදය "
+
+#: finance.py:241 finance.py:242
+msgid "Register"
+msgstr "නාම ලේඛනය"
+
+#: finance.py:258 finance.py:259
+msgid "Chart"
+msgstr "වගුව"
+
+#: finance.py:271
+msgid "Show Help"
+msgstr "උදව් පෙන්වීම"
+
+#: finance.py:284
+msgid "Transaction"
+msgstr "ගනුදෙනු"
+
+#: finance.py:285
+msgid "Period"
+msgstr "කාල පරිච්ඡේදය"
+
+#: finance.py:286
+msgid "View"
+msgstr "පෙනීම"
+
+#: finance.py:393
+msgid "Week of"
+msgstr "සති‍යෙහි"
+
+#: finance.py:439
+msgid "Balance: "
+msgstr "ඉතිරි මුදල: "
+
+#: finance.py:455
+msgid "Previous"
+msgstr "පෙර"
+
+#: finance.py:456
+msgid "This"
+msgstr "මෙම"
+
+#: finance.py:457
+msgid "Next"
+msgstr "ඊලඟ"
+
+#: registerscreen.py:34
+msgid ""
+"<b>Welcome to Finance!</b>   This activity keeps track of income and "
+"expenses for anything that earns\n"
+"or spends money, like a school club.  To get started, use the Transaction "
+"box to add credits and debits.\n"
+"Once you have entered some transactions, visit the Chart and Budget views to "
+"see more."
+msgstr ""
+"<b>මූල්‍ය කොටසට පිළි ගනිමු.</b> මෙම ක්‍රියාකාරම මගින් ඔබගේ එදිනෙදා ආදායම් සහ "
+"වියදම් පිළිබඳව සටහන් තබා ගත හැක. උදා: පාසල් සමිතියේ ආදායම් වියදම් "
+"සටහන.ආරම්භ කිරීම සඳහා ගනුදෙනු පෙට්ටියට අගයන් ඇතුලත් කරන්න. \n"
+"ඔබ අගයන් එකතු කල පසු වගු සහ අය වැය මෙනු වෙත ගොස් වැඩිදුර තොරතුරු දර්ශනය කර "
+"ගන්න."
+
+#: registerscreen.py:57
+msgid "Description"
+msgstr "විස්තරය"
+
+#: registerscreen.py:65
+msgid "Amount"
+msgstr "ප්‍රමාණය"
+
+#: registerscreen.py:74
+msgid "Date"
+msgstr "දිනය"

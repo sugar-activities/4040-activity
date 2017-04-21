@@ -1,0 +1,204 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-20 00:33-0400\n"
+"PO-Revision-Date: 2012-03-22 05:48+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pap\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2 finance.py:100
+msgid "Finance"
+msgstr "Finansia"
+
+#: budgetscreen.py:34
+msgid ""
+"The Budget view allows you to set a monthly budget for each expense "
+"category, and to keep track of your\n"
+"budgets.  To set a budget, type the amount in the box to the right of the "
+"category."
+msgstr ""
+"e bista di e presupuesto aki ta permitibo establesé un persupuesto mensual "
+"pa kada kategoria di gastu, i asina bo por tene bista riba bo "
+"presupuestonan.  Pa bo por stablesé un presupuesto, skibi e kantidat den e "
+"kaha na man drechi di e kategoria."
+
+#: budgetscreen.py:76 registerscreen.py:84
+msgid "Category"
+msgstr "Kategoria"
+
+#: budgetscreen.py:78
+msgid "Spent"
+msgstr "gastá"
+
+#: budgetscreen.py:80 finance.py:250 finance.py:251
+msgid "Budget"
+msgstr "presupuesto"
+
+#: budgetscreen.py:102 chartscreen.py:95
+msgid "Unknown"
+msgstr "Dèskònòsido"
+
+#: budgetscreen.py:154 budgetscreen.py:175 finance.py:228 finance.py:389
+#: finance.py:468 finance.py:486 finance.py:502
+msgid "Day"
+msgstr "Dia"
+
+#: budgetscreen.py:154 finance.py:232 finance.py:401 finance.py:402
+#: finance.py:449 finance.py:482 finance.py:518 finance.py:523 finance.py:528
+#: finance.py:541
+msgid "Forever"
+msgstr "Pa semper"
+
+#: budgetscreen.py:178 finance.py:229 finance.py:392 finance.py:471
+#: finance.py:489 finance.py:505
+msgid "Week"
+msgstr "Siman"
+
+#: budgetscreen.py:181 finance.py:231 finance.py:398 finance.py:479
+#: finance.py:498 finance.py:514
+msgid "Year"
+msgstr "Aña"
+
+#: chartscreen.py:34
+msgid ""
+"The Chart view shows the proportion of your expenses that is in each "
+"category.\n"
+"You can categorize transactions in the Register view."
+msgstr ""
+"E Chart view ta mustra e proporshón di bo gastunan ku ta den kada kategoría.\n"
+"Bo por kategorizá transakshonnan den e Register view."
+
+#: chartscreen.py:49
+msgid "Debit Categories"
+msgstr "Kategoria debito"
+
+#: finance.py:125 finance.py:230 finance.py:395 finance.py:476 finance.py:492
+#: finance.py:508
+msgid "Month"
+msgstr "Luna"
+
+#: finance.py:188 registerscreen.py:196
+msgid "New Credit"
+msgstr "Crédito nobo"
+
+#: finance.py:193 registerscreen.py:207
+msgid "New Debit"
+msgstr "Débito nobo"
+
+#: finance.py:198
+msgid "Erase Transaction"
+msgstr "Kita transakshón"
+
+#: finance.py:223
+msgid "Period: "
+msgstr "Periodo: "
+
+#: finance.py:241 finance.py:242
+msgid "Register"
+msgstr "Registrá"
+
+#: finance.py:258 finance.py:259
+msgid "Chart"
+msgstr "gráfiko"
+
+#: finance.py:271
+msgid "Show Help"
+msgstr "Mustra ayudami"
+
+#: finance.py:284
+msgid "Transaction"
+msgstr "Transakshón"
+
+#: finance.py:285
+msgid "Period"
+msgstr "Periodo"
+
+#: finance.py:286
+msgid "View"
+msgstr "bista"
+
+#: finance.py:393
+msgid "Week of"
+msgstr "Siman di"
+
+#: finance.py:439
+msgid "Balance: "
+msgstr "Balans: "
+
+#: finance.py:455
+msgid "Previous"
+msgstr "Anteriór"
+
+#: finance.py:456
+msgid "This"
+msgstr "Esaki"
+
+#: finance.py:457
+msgid "Next"
+msgstr "Siguiente"
+
+#: registerscreen.py:34
+msgid ""
+"<b>Welcome to Finance!</b>   This activity keeps track of income and "
+"expenses for anything that earns\n"
+"or spends money, like a school club.  To get started, use the Transaction "
+"box to add credits and debits.\n"
+"Once you have entered some transactions, visit the Chart and Budget views to "
+"see more."
+msgstr ""
+"<b>Bon biní na finansas</b>   E aktividat aki t a warda tur historia di tur "
+"ingreso of gastunan di kualkier kos ku ta gasta of gana sen, por ehempel un "
+"klup di skol.  Pa kuminsá, uza e kaha di transakshón pa agregá crédito i "
+"débito.  Ora ku bo a hinka algun transakshón, bishitá e Karta i Bista di "
+"presupuesto pa bo por lesa mas."
+
+#: registerscreen.py:57
+msgid "Description"
+msgstr "Deskripshón"
+
+#: registerscreen.py:65
+msgid "Amount"
+msgstr "Kantidad"
+
+#: registerscreen.py:74
+msgid "Date"
+msgstr "Fecha"

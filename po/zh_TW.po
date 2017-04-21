@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-20 00:33-0400\n"
+"PO-Revision-Date: 2012-03-22 05:15+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2 finance.py:100
+msgid "Finance"
+msgstr "財務管理"
+
+#: budgetscreen.py:34
+msgid ""
+"The Budget view allows you to set a monthly budget for each expense "
+"category, and to keep track of your\n"
+"budgets.  To set a budget, type the amount in the box to the right of the "
+"category."
+msgstr ""
+"在預算畫面，您可以替各個支出分類設定每個月的預算，並且追蹤您的預算。\n"
+"   在各個分類的右方格子中，填入數值來設定預算。"
+
+#: budgetscreen.py:76 registerscreen.py:84
+msgid "Category"
+msgstr "分類"
+
+#: budgetscreen.py:78
+msgid "Spent"
+msgstr "花費"
+
+#: budgetscreen.py:80 finance.py:250 finance.py:251
+msgid "Budget"
+msgstr "預算"
+
+#: budgetscreen.py:102 chartscreen.py:95
+msgid "Unknown"
+msgstr "未知"
+
+#: budgetscreen.py:154 budgetscreen.py:175 finance.py:228 finance.py:389
+#: finance.py:468 finance.py:486 finance.py:502
+msgid "Day"
+msgstr "日"
+
+#: budgetscreen.py:154 finance.py:232 finance.py:401 finance.py:402
+#: finance.py:449 finance.py:482 finance.py:518 finance.py:523 finance.py:528
+#: finance.py:541
+msgid "Forever"
+msgstr "無期限"
+
+#: budgetscreen.py:178 finance.py:229 finance.py:392 finance.py:471
+#: finance.py:489 finance.py:505
+msgid "Week"
+msgstr "週"
+
+#: budgetscreen.py:181 finance.py:231 finance.py:398 finance.py:479
+#: finance.py:498 finance.py:514
+msgid "Year"
+msgstr "年"
+
+#: chartscreen.py:34
+msgid ""
+"The Chart view shows the proportion of your expenses that is in each "
+"category.\n"
+"You can categorize transactions in the Register view."
+msgstr ""
+"圖表顯示您在各個項目的花費比例。\n"
+" 您可以在登錄畫面中新增收支的分類。"
+
+#: chartscreen.py:49
+msgid "Debit Categories"
+msgstr "預支分類"
+
+#: finance.py:125 finance.py:230 finance.py:395 finance.py:476 finance.py:492
+#: finance.py:508
+msgid "Month"
+msgstr "月"
+
+#: finance.py:188 registerscreen.py:196
+msgid "New Credit"
+msgstr "新增信用項目"
+
+#: finance.py:193 registerscreen.py:207
+msgid "New Debit"
+msgstr "新增預支項目"
+
+#: finance.py:198
+msgid "Erase Transaction"
+msgstr "消除該筆交易"
+
+#: finance.py:223
+msgid "Period: "
+msgstr "期間："
+
+#: finance.py:241 finance.py:242
+msgid "Register"
+msgstr "登錄"
+
+#: finance.py:258 finance.py:259
+msgid "Chart"
+msgstr "圖表"
+
+#: finance.py:271
+msgid "Show Help"
+msgstr "顯示幫助"
+
+#: finance.py:284
+msgid "Transaction"
+msgstr "交易"
+
+#: finance.py:285
+msgid "Period"
+msgstr "期間"
+
+#: finance.py:286
+msgid "View"
+msgstr "畫面"
+
+#: finance.py:393
+msgid "Week of"
+msgstr "週數"
+
+#: finance.py:439
+msgid "Balance: "
+msgstr "收支平衡："
+
+#: finance.py:455
+msgid "Previous"
+msgstr "前一個"
+
+#: finance.py:456
+msgid "This"
+msgstr "這個"
+
+#: finance.py:457
+msgid "Next"
+msgstr "下一個"
+
+#: registerscreen.py:34
+msgid ""
+"<b>Welcome to Finance!</b>   This activity keeps track of income and "
+"expenses for anything that earns\n"
+"or spends money, like a school club.  To get started, use the Transaction "
+"box to add credits and debits.\n"
+"Once you have entered some transactions, visit the Chart and Budget views to "
+"see more."
+msgstr ""
+"<b>歡迎來到財務管理！</b>   本活動可以紀錄像是學校社團所支出的花費以及賺得的收入。\n"
+" 您可以從交易方格中新增信用與預支項目。\n"
+" 一旦你有輸入過交易項目，您可以在圖表與預算畫面中瞭解更多。"
+
+#: registerscreen.py:57
+msgid "Description"
+msgstr "描述"
+
+#: registerscreen.py:65
+msgid "Amount"
+msgstr "數量"
+
+#: registerscreen.py:74
+msgid "Date"
+msgstr "日期"
